@@ -1,4 +1,3 @@
 # hello-world
 just for the tutorial
-
-but it's a simple introduction
+it's a simple and meaningless introduction
